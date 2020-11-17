@@ -1,1 +1,3 @@
 Github on platform, mis annab võimaluse rohkem kui kahel inimestel töötada ühe failiga samal ajal ja vahetada koode. 
+Githubi võib kasutada igal kohal kus on arvuti ja interneti võrk  olemas.
+Nüüdest hakkan kasutama Githubi selleks, et harjutama õppeülesandidega ja hakkan salvestama siin oma koodid.
